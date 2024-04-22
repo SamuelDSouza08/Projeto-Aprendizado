@@ -21,6 +21,11 @@ footer{
 .ul-div2 li{
     margin-right: 10px;
     float: right;
+    list-style: none;
+}
+.ul-div2 a{
+    text-decoration: none;
+    text-decoration-color: #5A5A71;
 }
 .coluna{
     flex: 1;
@@ -34,7 +39,7 @@ footer{
 #div1{
     width: 100%;
     height: 60px;
-    background-color: #FF5EAC;
+    background-image: linear-gradient(to right, #ff5eac 100%, #6e56ed 15%);
     text-align: center;
     font-size: 16px;
     margin-bottom: 0px !important;
