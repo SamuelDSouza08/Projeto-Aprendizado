@@ -19,13 +19,13 @@ footer{
 
 }
 .ul-div2 li{
-    margin-right: 10px;
+    margin-right: 40px;
     float: right;
     list-style: none;
 }
 .ul-div2 a{
     text-decoration: none;
-    text-decoration-color: #5A5A71;
+    color: #5A5A71;
 }
 .coluna{
     flex: 1;
@@ -50,6 +50,7 @@ footer{
     background-color: white;
     margin-bottom: 0 !important;
     font-size: 16px;
+    text-align: center;
 }
 #div3{
     width: 100%;
@@ -88,4 +89,17 @@ footer{
 #coluna-meio{
     margin-left: 50px;
     margin-right: 50px;
+}
+#plano{
+    color: #ff5eac;
+}
+#encontre-plano{
+    background: linear-gradient(to right, #ff5bb2, #Cd51f3);
+    border: none;
+    width: 168px;
+    height: 41px;
+    border-radius: 15px;
+    color: white;
+    background-position: center;
+    background-size: cover;
 }
