@@ -93,15 +93,15 @@ footer{
 #plano{
     color: #ff5eac;
 }
-#encontre-plano{
+#button-div2{
     background: linear-gradient(to right, #ff5bb2, #Cd51f3);
     border: none;
     width: 168px;
     height: 41px;
     border-radius: 15px;
     color: white;
-    background-position: center;
-    background-size: cover;
+    cursor: pointer;
+    bottom: 100%;
 }
 #img-div2{
     float: left;
